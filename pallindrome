@@ -4,3 +4,8 @@ if x == y:
  print("The Number is Palindrome")
 else:
  print("The Number is not a Palindrome")
+
+# print Good Morning
+
+print("Hello World")
+print("Good Morning")
