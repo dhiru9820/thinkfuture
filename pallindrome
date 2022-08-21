@@ -1,0 +1,6 @@
+x = input("Enter the number")
+y = x[-1::-1]
+if x == y:
+ print("The Number is Palindrome")
+else:
+ print("The Number is not a Palindrome")
